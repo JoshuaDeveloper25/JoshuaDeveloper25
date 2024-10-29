@@ -96,8 +96,3 @@ I am an undergraduate Computer Science and Engineering student at Honduras. Java
     [![](https://github-readme-stats.vercel.app/api?username=joshuaDeveloper25&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/joshuaDeveloper25)
     [![](https://github-readme-streak-stats.herokuapp.com/?user=joshuaDeveloper25&theme=material-palenight)](https://github.com/joshuaDeveloper25)
   </div>
-
-  <p>
-    <img  src="https://raw.githubusercontent.com/joshuaDeveloper25/github-profile-snake/main/dist/github-contribution-grid-snake.svg"
-    alt="snake animation" />
-  </p>
