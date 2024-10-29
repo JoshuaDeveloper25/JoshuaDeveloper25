@@ -23,8 +23,8 @@ I am an undergraduate Computer Science and Engineering student at Honduras. Java
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   </span>
-
-    <h4>Javascript Frameworks</h4>
+  
+  <h4>Javascript Frameworks</h4>
   <span>
     <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
@@ -91,6 +91,7 @@ I am an undergraduate Computer Science and Engineering student at Honduras. Java
   </span>
 
   <div align="center">
+    <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
     <h2>Github stats:</h2> 
     
     [![](https://github-readme-stats.vercel.app/api?username=joshuaDeveloper25&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/joshuaDeveloper25)
