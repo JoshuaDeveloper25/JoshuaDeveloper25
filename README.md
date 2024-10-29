@@ -40,6 +40,12 @@ I am an undergraduate Computer Science and Engineering student at Honduras. Java
      <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
   </span>
 
+  <h4>Design & Prototyping Tools</h4>
+  <span>
+     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+     <img src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black">
+  </span>
+
   <h4>Hosting/SaaS</h4>
   <span>
     <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">
