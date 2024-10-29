@@ -89,3 +89,10 @@ I am an undergraduate Computer Science and Engineering student at Honduras. Java
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
   </span>
+
+  <div align="center">
+    <h2>Github stats:</h2> 
+    
+    [![](https://github-readme-stats.vercel.app/api?username=joshuaDeveloper25&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/joshuaDeveloper25)
+    [![](https://github-readme-streak-stats.herokuapp.com/?user=joshuaDeveloper25&theme=material-palenight)](https://github.com/joshuaDeveloper25)
+  </div>
