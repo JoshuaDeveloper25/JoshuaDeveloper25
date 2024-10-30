@@ -35,6 +35,7 @@ I am an undergraduate Computer Science and Engineering student at Honduras. Java
   <span>
     <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white">
     <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
+    <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
   </span>
 
   <h4>CSS Frameworks</h4>
