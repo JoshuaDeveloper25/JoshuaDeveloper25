@@ -104,7 +104,7 @@ I am an undergraduate Computer Science and Engineering student at Honduras. Java
     <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white">
   </span>
   
-  <h4>Other Tools and Technologies</h4>
+  <h4>Other Tools And Technologies</h4>
   <span>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
