@@ -13,7 +13,7 @@ I'm an undergraduate Computer Science and Engineering student at Honduras. Javas
     
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about building/making a project for you, I am happy to help, only if the ball is in my court! 😉<br>
-- Outside tech, I enjoy playing Fornite and Roblox 🎮, listening to music 🎵, and watching anime 👀.
+- Outside tech, I enjoy playing Fornite and Roblox 🎮, listening to music 🎵 and watching anime 👀.
 
 
   <h4>Languages</h4>
