@@ -8,11 +8,11 @@ I'm an undergraduate Computer Science and Engineering student at Honduras. Javas
 
 * **I am interested in Web Development!**
 - 🌱 I’m currently learning...
-  - React Native
-  - Astro
-  - Angular
-  - Lua
   - Roblox Studio
+  - React Native
+  - Angular
+  - Astro
+  - Lua
     
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about building/making a project for you, I am happy to help, only if the ball is in my court! 😉<br>
