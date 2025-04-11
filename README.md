@@ -11,6 +11,7 @@ I'm an undergraduate Computer Science and Engineering student at Honduras. Javas
   - Roblox Studio
   - React Native
   - Angular
+  - Blender
   - Astro
   - Lua
     
