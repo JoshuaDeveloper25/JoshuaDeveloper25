@@ -8,6 +8,7 @@ I'm an undergraduate Computer Science and Engineering student at Honduras. Javas
 
 * **I am interested in Web Development!**
 - 🌱 I’m currently learning....
+  - Digital Marketing
   - Roblox Studio
   - React Native
   - Angular
