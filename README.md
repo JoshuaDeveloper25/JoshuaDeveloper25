@@ -7,7 +7,7 @@
 I'm an undergraduate Computer Science and Engineering student at Honduras. Javascript, Python, are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
 
 * **I am interested in Web Development!**
-- 🌱 I’m currently learning...
+- 🌱 I’m currently learning:
   - Digital Marketing
   - Roblox Studio
   - React Native
@@ -19,7 +19,6 @@ I'm an undergraduate Computer Science and Engineering student at Honduras. Javas
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about building/making a project for you, I am happy to help, only if the ball is in my court! 😉<br>
 - Outside tech, I enjoy playing Fornite and Roblox 🎮, listening to music 🎵 and watching anime 👀.
-
 
   <h4>Languages</h4>
   <span> 
